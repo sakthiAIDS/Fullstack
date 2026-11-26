@@ -2,7 +2,7 @@
 import { Routes, Route, Link } from 'react-router-dom';
 
 function Home() {
-  return <h1>Welcome to Food Donation System</h1>;
+  return <h1>Welcome to Food Donation System!</h1>;
 }
 
 function About() {
