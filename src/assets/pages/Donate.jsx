@@ -9,7 +9,7 @@ function Donate() {
       <input placeholder="Food Quantity" />
       <input placeholder="Location" />
 
-      <button>Submit Donation</button>
+      <button>Submit Donation.</button>
     </div>
   );
 }
