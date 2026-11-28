@@ -23,7 +23,7 @@ function Donate() {
 
       <div className="mx-auto max-w-2xl rounded-2xl bg-white p-8 shadow-lg">
 
-        {/* Heading */}
+       
         <div className="mb-8 text-center">
           <h1 className="text-4xl font-bold text-green-700">
             Donate Food
@@ -34,7 +34,6 @@ function Donate() {
           </p>
         </div>
 
-        {/* Donation Form */}
         <form onSubmit={handleSubmit} className="space-y-5">
 
           <div>

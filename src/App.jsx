@@ -1,10 +1,7 @@
-
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
-
 import Home from "./assets/pages/Home.jsx";
 import About from "./assets/pages/About.jsx";
 import Donate from "./assets/pages/Donate.jsx";
-
 function App() {
   return (
     <BrowserRouter>
@@ -38,16 +35,11 @@ function App() {
         <Routes>
 
           <Route path="/" element={<Home />} />
-
           <Route path="/About" element={<About />} />
-
           <Route path="/Donate" element={<Donate />} />
-
         </Routes>
-
       </div>
     </BrowserRouter>
   );
 }
-
 export default App;

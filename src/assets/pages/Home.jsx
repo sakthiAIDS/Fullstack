@@ -82,10 +82,6 @@ function Home() {
 
       </section>
 
-      <footer className="bg-green-800 p-6 text-center text-white">
-        Copyright 2026 Food Donation System
-      </footer>
-
     </div>
   );
 }
