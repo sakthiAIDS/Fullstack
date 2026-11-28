@@ -16,7 +16,7 @@ function Home() {
           </h2>
 
           <p className="mb-8 text-lg text-white">
-            Don't waste food. Help needy people.
+            Don't waste food. Help needy people
           </p>
 
           <a
